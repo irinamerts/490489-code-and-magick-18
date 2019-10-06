@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Мерц](https://up.htmlacademy.ru/javascript/18/user/490489).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Усиков](https://htmlacademy.ru/profile/id939693).
 
 ---
 
